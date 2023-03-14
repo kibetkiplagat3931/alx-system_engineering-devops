@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $CURRENTLINUXUSER="hello user"
+echo $CURRENT_LINUX_USER="hello user"
